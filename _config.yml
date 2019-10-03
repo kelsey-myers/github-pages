@@ -5,7 +5,7 @@ description: A compilation of projects by me. > # this means to ignore newlines 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://kelsey-myers.github.io/project-page/" # the base hostname & protocol for your site
 
-twitter_username:
+twitter_username: kelseymyers_
 github_username: kelsey-myers
 
 # Build settings
