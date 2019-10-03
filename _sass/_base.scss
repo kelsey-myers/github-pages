@@ -173,8 +173,8 @@ header {
                 margin: 30px auto;
             }
             p {
-                font-weight: 300;
-                color: rgba(white, .7);
+                font-weight: 100;
+                color: white;
                 font-size: 16px;
                 margin-bottom: 50px;
             }
@@ -184,7 +184,7 @@ header {
         min-height: 100%;
         .header-content {
             position: absolute;
-            top: 50%;
+            top: 57%;
             -webkit-transform: translateY(-50%);
             -ms-transform: translateY(-50%);
             transform: translateY(-50%);
